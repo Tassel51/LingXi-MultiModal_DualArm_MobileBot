@@ -1,15 +1,12 @@
-# 忽略所有 YOLO 模型文件（不上传到 GitHub）
 *.pt
 *.pth
-*.weights
+*.bin
 *.onnx
-
-# 忽略 Python 缓存
+venv/
+.venv/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# 忽略 IDE 配置
-.idea/
 .vscode/
+zgrasp/yolomodel/yolov8n-seg.pt
+zcup/yolomodel/best.pt
+zgrasp/yolomodel/yolov8m-seg.pt
+zgrasp/yolomodel/yolov8x-seg.pt
