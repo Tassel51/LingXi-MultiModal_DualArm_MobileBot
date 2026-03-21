@@ -1,0 +1,15 @@
+# 忽略所有 YOLO 模型文件（不上传到 GitHub）
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 IDE 配置
+.idea/
+.vscode/
