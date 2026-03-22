@@ -3,6 +3,8 @@ Multi-modal perception & mobile manipulation system for dual-arm autonomous robo
 
 ## Overview
 This project implements a multi-modal perception and motion control framework for a dual-arm mobile robot platform. It integrates visual perception, natural language understanding, environment modeling, and end-to-end robot control to achieve autonomous mobile manipulation tasks.
+<img width="1395" height="702" alt="image" src="https://github.com/user-attachments/assets/b8df76ae-96b6-44dd-9c42-cd4db85425ee" />
+<img width="1636" height="629" alt="image" src="https://github.com/user-attachments/assets/10464452-390b-4efc-bc77-8ace348deaa3" />
 
 ## Features
 - Multi-modal input: RGB camera, depth sensing, audio / command understanding
