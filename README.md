@@ -26,19 +26,3 @@ This project implements a multi-modal perception and motion control framework fo
 4. **Fusion Module**: Multi-modal information alignment and state estimation
 <img width="455" height="210" alt="image" src="https://github.com/user-attachments/assets/bb5bffb7-9752-4953-8f5c-ade18178204c" />
 <img width="447" height="233" alt="image" src="https://github.com/user-attachments/assets/a8c46e1c-e83d-4c5f-bc7a-c39a734d41af" />
-
-## Tech Stack
-- Python / C++
-- ROS / ROS2
-- PyTorch (deep learning inference)
-- OpenCV, Open3D
-- Linux, Ubuntu
-
-## Project Structure
-```plaintext
-├── src/                # Core algorithm and control code
-├── perception/         # Visual & multi-modal perception
-├── planning/           # Motion & task planning
-├── control/            # Robot arm & base driver
-├── config/             # Parameter configuration
-└── launch/             # Startup scripts
