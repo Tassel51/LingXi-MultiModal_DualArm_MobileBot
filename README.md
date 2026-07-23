@@ -6,7 +6,7 @@ This project implements a multi-modal perception and motion control framework fo
 <img width="1395" height="702" alt="image" src="https://github.com/user-attachments/assets/b8df76ae-96b6-44dd-9c42-cd4db85425ee" />
 <img width="1636" height="629" alt="image" src="https://github.com/user-attachments/assets/10464452-390b-4efc-bc77-8ace348deaa3" />
 ## 🔥🔥🔥 News
-- **【2026.07】**  我们的项目在英特尔杯全国大学生电子设计竞赛嵌入式AI专题赛中荣获全国二等奖！感谢队友胡天崴和范恩齐的出色合作！
+- **【2026.07】**  我们的项目在英特尔杯全国大学生电子设计竞赛嵌入式AI专题赛中荣获全国二等奖！我们将原有的项目进度部署在Intel公司提供的开发板上进行了部署适配与新算法的优化改进等（包括新增人脸、情绪识别，新建立FAISS机械臂动作知识向量库以保证动作的安全与准确性、OCR药品识别抓药等操作...）。感谢队友胡天崴和范恩齐的出色合作！
 <div align="center"><img width="400" alt="Intel Cup Award" src="assets/intel_cup_award.jpg" /></div>
 - **【2026.04】**  我们的项目在大创结题答辩时获得了国家级良好的项目成果！感谢项目组成员的努力！
 - **【2025.07】**  我们的项目在第九届全国大学生集成电路创新创业大赛 东北分赛区决赛二等奖，感谢队友们的初步系统搭建！我们的机器人可以实现简单的移动避障、对话抓取等操作了！！！
