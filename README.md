@@ -5,6 +5,9 @@ Multi-modal perception & mobile manipulation system for dual-arm autonomous robo
 This project implements a multi-modal perception and motion control framework for a dual-arm mobile robot platform. It integrates visual perception, natural language understanding, environment modeling, and end-to-end robot control to achieve autonomous mobile manipulation tasks.
 <img width="1395" height="702" alt="image" src="https://github.com/user-attachments/assets/b8df76ae-96b6-44dd-9c42-cd4db85425ee" />
 <img width="1636" height="629" alt="image" src="https://github.com/user-attachments/assets/10464452-390b-4efc-bc77-8ace348deaa3" />
+## 🔥🔥🔥 News
+- [2026.07] 我们的项目在英特尔杯全国大学生电子设计竞赛嵌入式AI专题赛中荣获全国二等奖！感谢队友胡天崴和范恩齐的出色合作！
+- [2026.04] 我们的项目在大创结题答辩时获得了国家级良好的项目成果！感谢项目组成员的努力！
 
 ## Features
 - Multi-modal input: RGB camera, depth sensing, audio / command understanding
@@ -14,7 +17,7 @@ This project implements a multi-modal perception and motion control framework fo
 <img width="770" height="390" alt="image" src="https://github.com/user-attachments/assets/a17d9a2e-7a3b-4519-b013-f2c453f93942" />
 
 - Mobile base autonomous navigation and obstacle avoidance
-<img width="770" height="390" alt="image" src="https://github.com/user-attachments/assets/be41e20d-ca18-4dba-bbac-0440391d4d06" />
+<img width="770" alt="image" src="assets/mobile_navigation.jpg" />
 
 - Real-time environment perception and target localization
 - Modular software architecture for easy deployment and extension
