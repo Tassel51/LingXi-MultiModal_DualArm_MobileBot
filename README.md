@@ -1,5 +1,5 @@
 # LingXi-MultiModal-DualArm-MobileBot
-Multi-modal perception & mobile manipulation system for dual-arm autonomous robot.
+"灵犀" — 多模态双臂移动机器人 — 融合视觉、语言与操作能力的具身智能平台（国家级大学生创新创业训练计划，国家级良好）
 
 ## 👀 Overview
 This project implements a multi-modal perception and motion control framework for a dual-arm mobile robot platform. It integrates visual perception, natural language understanding, environment modeling, and end-to-end robot control to achieve autonomous mobile manipulation tasks.
